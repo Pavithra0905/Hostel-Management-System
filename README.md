@@ -2,7 +2,7 @@
 
 A complete full-stack web application for managing hostel room allocations with priority-based allocation, role-based access control, and comprehensive reporting features.
 
-## 🎓 Final Year Software Engineering Lab Project
+Software Engineering Lab Project
 
 ---
 
