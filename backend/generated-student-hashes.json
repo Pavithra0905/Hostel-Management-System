@@ -1,0 +1,52 @@
+[
+  {
+    "email": "pavi@gmail.com",
+    "pass": "pavi@123",
+    "hash": "$2b$10$qADpLBv/KMZwYpwDlh8GPeiefvxL7UwdcjjE5PbiS9kE9fl5nK/4C"
+  },
+  {
+    "email": "ananya@gmail.com",
+    "pass": "ananya@123",
+    "hash": "$2b$10$9Q5dhrLvXNiS6v.HxTdvS.KSReSdJRh5xXy6lzeZN3mKlrFK4aBnq"
+  },
+  {
+    "email": "divya@gmail.com",
+    "pass": "divya@123",
+    "hash": "$2b$10$RzTtpvTcsRISHGiSeWulAuAw5JS.9oLeHzHNpkF1EZMEmcpoggX2m"
+  },
+  {
+    "email": "keerthi@gmail.com",
+    "pass": "keerthi@123",
+    "hash": "$2b$10$Q4PTx0IpaLP9WEkbpdlsJ./xzI9E/s25YHDrICOE328p8ejYjNt.."
+  },
+  {
+    "email": "meera@gmail.com",
+    "pass": "meera@123",
+    "hash": "$2b$10$f62jPhT83eaCG57VAENkl.uDf25qdxDJ01N03DD1IIwL24khi6g.O"
+  },
+  {
+    "email": "nisha@gmail.com",
+    "pass": "nisha@123",
+    "hash": "$2b$10$f7rCNfUD16z9sjaDOaxZhe3HVvgJW7zIHXzKA2YCmrgpKUF3gUdWe"
+  },
+  {
+    "email": "pooja@gmail.com",
+    "pass": "pooja@123",
+    "hash": "$2b$10$.qmTuC/9HDTxgUuU./GjeufHhaU186fmHHZTbZe5yqhHQOCGbIJMK"
+  },
+  {
+    "email": "rithika@gmail.com",
+    "pass": "rithika@123",
+    "hash": "$2b$10$DE94NFjbOFRxH3vxd.TBsu8.qZn78g7EQgR1Dk3pEKpCT3xwAw67S"
+  },
+  {
+    "email": "sneha@gmail.com",
+    "pass": "sneha@123",
+    "hash": "$2b$10$SUAxelZZL4A/JFnif/d2puonyu8kcfi07PqJ8eROZRZaLE99hM0UW"
+  },
+  {
+    "email": "vaishnavi@gmail.com",
+    "pass": "vaishnavi@123",
+    "hash": "$2b$10$f4z/fAy.9MXEYHdMeioUSuqO3nxHrkwuwSa019CgPlPknFOloYs6i"
+  }
+]

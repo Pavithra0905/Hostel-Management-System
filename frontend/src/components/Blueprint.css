@@ -1,0 +1,47 @@
+.blueprint-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+
+.blueprint-svg {
+  width: 100%;
+  height: 520px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(10,20,40,0.06);
+}
+
+.blueprint-legend {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  font-size: 14px;
+}
+
+.legend-swatch {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  margin-right: 6px;
+  border: 1px solid rgba(0,0,0,0.08);
+}
+.legend-available { background: #9fe6a6; }
+.legend-booked { background: #f6a6a6; }
+.legend-me { background: #4f83ff; }
+.legend-double-single { background: #f7b267; }
+.legend-phd {
+  background: #e6fffb;
+  border: 2px solid #0ea5a3;
+}
+
+.blueprint-room-group text { pointer-events: none; }
+
+.blueprint-wrap .blueprint-room-group:hover rect {
+  filter: brightness(0.96);
+}
+
+.blueprint-wrap .blueprint-room-group:active rect {
+  transform: translateY(1px);
+}
